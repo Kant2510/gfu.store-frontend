@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gfu.store/static/css/main.45497054.css",
+    "main.js": "/gfu.store/static/js/main.34d5d2a0.js",
+    "static/js/787.5a1a17be.chunk.js": "/gfu.store/static/js/787.5a1a17be.chunk.js",
+    "static/media/background.jpg": "/gfu.store/static/media/background.a49584979491a0673745.jpg",
+    "static/media/rubik.ttf": "/gfu.store/static/media/rubik.904e9380e0b728a433d7.ttf",
+    "static/media/dosis.ttf": "/gfu.store/static/media/dosis.1af19a28a29fcb2321da.ttf",
+    "static/media/hand.svg": "/gfu.store/static/media/hand.d3c878c8ea3987243c1b2d42d7f66a45.svg",
+    "index.html": "/gfu.store/index.html",
+    "main.45497054.css.map": "/gfu.store/static/css/main.45497054.css.map",
+    "main.34d5d2a0.js.map": "/gfu.store/static/js/main.34d5d2a0.js.map",
+    "787.5a1a17be.chunk.js.map": "/gfu.store/static/js/787.5a1a17be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45497054.css",
+    "static/js/main.34d5d2a0.js"
+  ]
+}
