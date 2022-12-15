@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gfu.store/static/css/main.8091d6ab.css",
-    "main.js": "/gfu.store/static/js/main.4a93e39e.js",
+    "main.js": "/gfu.store/static/js/main.f053f06b.js",
     "static/js/787.5a1a17be.chunk.js": "/gfu.store/static/js/787.5a1a17be.chunk.js",
     "static/media/background.jpg": "/gfu.store/static/media/background.a49584979491a0673745.jpg",
     "static/media/rubik.ttf": "/gfu.store/static/media/rubik.904e9380e0b728a433d7.ttf",
@@ -9,11 +9,11 @@
     "static/media/hand.svg": "/gfu.store/static/media/hand.d3c878c8ea3987243c1b2d42d7f66a45.svg",
     "index.html": "/gfu.store/index.html",
     "main.8091d6ab.css.map": "/gfu.store/static/css/main.8091d6ab.css.map",
-    "main.4a93e39e.js.map": "/gfu.store/static/js/main.4a93e39e.js.map",
+    "main.f053f06b.js.map": "/gfu.store/static/js/main.f053f06b.js.map",
     "787.5a1a17be.chunk.js.map": "/gfu.store/static/js/787.5a1a17be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8091d6ab.css",
-    "static/js/main.4a93e39e.js"
+    "static/js/main.f053f06b.js"
   ]
 }
