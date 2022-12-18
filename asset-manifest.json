@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/gfu.store/static/css/main.69c91b00.css",
-    "main.js": "/gfu.store/static/js/main.b7364217.js",
+    "main.js": "/gfu.store/static/js/main.63f24bcd.js",
     "static/js/787.0c3f432a.chunk.js": "/gfu.store/static/js/787.0c3f432a.chunk.js",
     "static/media/rubik.ttf": "/gfu.store/static/media/rubik.904e9380e0b728a433d7.ttf",
     "static/media/dosis.ttf": "/gfu.store/static/media/dosis.1af19a28a29fcb2321da.ttf",
     "static/media/hand.svg": "/gfu.store/static/media/hand.d3c878c8ea3987243c1b2d42d7f66a45.svg",
     "index.html": "/gfu.store/index.html",
     "main.69c91b00.css.map": "/gfu.store/static/css/main.69c91b00.css.map",
-    "main.b7364217.js.map": "/gfu.store/static/js/main.b7364217.js.map",
+    "main.63f24bcd.js.map": "/gfu.store/static/js/main.63f24bcd.js.map",
     "787.0c3f432a.chunk.js.map": "/gfu.store/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69c91b00.css",
-    "static/js/main.b7364217.js"
+    "static/js/main.63f24bcd.js"
   ]
 }
