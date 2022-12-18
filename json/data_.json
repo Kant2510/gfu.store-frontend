@@ -2,17 +2,19 @@
     {
         "id": 1,
         "name": "Assassin's Creed Valhalla",
-        "publisher": " Ubisoft",
+        "publisher": "Ubisoft",
         "version": "Phiên bản mới nhất",
         "description": "Become a legendary Viking on a quest for glory. Raid your enemies, grow your settlement, and build your political power.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/101.jpg",
         "sell": "3M",
-        "price": "$19.80",
+        "price": "990.000₫",
         "rates": 4,
-        "sale": "-30%",
-        "sale_price": "$13.86",
-        "link": "https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/"
+        "sale": "-67%",
+        "sale_price": "326.500₫",
+        "link": "https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/",
+        "youtube": "https://www.youtube.com/watch?v=rKjUAWlbTJk"
     },
     {
         "id": 2,
@@ -20,14 +22,16 @@
         "publisher": "Rockstar Games",
         "version": "Phiên bản mới nhất",
         "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/102.jpg",
         "sell": "2.5M",
-        "price": "$19.79",
+        "price": "1.000.000₫",
         "rates": 3,
-        "sale": "-40%",
-        "sale_price": "$11.874",
-        "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+        "sale": "-67%",
+        "sale_price": "330.000₫",
+        "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+        "youtube": "https://www.youtube.com/watch?v=gmA6MrX81z4"
     },
     {
         "id": 3,
@@ -35,14 +39,16 @@
         "publisher": " Fatshark ",
         "version": "Phiên bản mới nhất",
         "description": "Take back the city of Tertium from hordes of bloodthirsty foes in this intense and brutal action shooter. Warhammer 40,000: Darktide is the new co-op focused experience from the award-winning team behind the Vermintide series. As Tertium falls, Rejects Will Rise.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/103.jpg",
         "sell": "4M",
-        "price": "$39.99",
+        "price": "665.000₫",
         "rates": 4,
-        "sale": "-50%",
-        "sale_price": "$19.995",
-        "link": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/",
+        "youtube": "https://www.youtube.com/watch?v=1ApidPBAlLo"
     },
     {
         "id": 4,
@@ -50,14 +56,16 @@
         "publisher": "Bethesda Softworks",
         "version": "Phiên bản mới nhất",
         "description": "Join over 20 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/104.jpg",
         "sell": "5.2M",
-        "price": "$19.99",
+        "price": "450.000₫",
         "rates": 2,
-        "sale": "-25%",
-        "sale_price": "$14.99",
-        "link": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/",
+        "youtube": "https://www.youtube.com/watch?v=XaI-EOVpDvo"
     },
     {
         "id": 5,
@@ -65,14 +73,16 @@
         "publisher": "FromSoftware Inc.",
         "version": "Phiên bản mới nhất",
         "description": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/105.jpg",
         "sell": "2.1M",
-        "price": "$59.99",
+        "price": "800.000₫",
         "rates": 3,
-        "sale": "-10%",
-        "sale_price": "$53.99",
-        "link": "https://store.steampowered.com/app/1245620/ELDEN_RING/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+        "youtube": "https://www.youtube.com/watch?v=K_03kFqWfqs"
     },
     {
         "id": 6,
@@ -80,14 +90,16 @@
         "publisher": "FromSoftware, Inc",
         "version": "Phiên bản mới nhất",
         "description": "ark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/106.jpg",
         "sell": "1.3M",
-        "price": "$59.99",
+        "price": "970.000₫",
         "rates": 1,
-        "sale": "-80%",
-        "sale_price": "$11.99",
-        "link": "https://store.steampowered.com/app/374320/DARK_SOULS_III/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/374320/DARK_SOULS_III/",
+        "youtube": "https://www.youtube.com/watch?v=_zDZYrIUgKE"
     },
     {
         "id": 7,
@@ -95,21 +107,58 @@
         "publisher": "Rockstar Games",
         "version": "Phiên bản mới nhất",
         "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/107.jpg",
         "sell": "0.8M",
-        "price": "$14.98",
+        "price": "608.000₫",
         "rates": 2,
-        "sale": "-35%",
-        "sale_price": "$9.73",
-        "link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
+        "sale": "-63%",
+        "sale_price": "227.000₫",
+        "link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+        "youtube": "https://www.youtube.com/watch?v=QkkoHAzjnUs"
     },
     {
         "id": 8,
+        "name": "Horizon Zero Dawn™ Complete Edition",
+        "publisher": "PlayStation PC LLC",
+        "version": "Phiên bản mới nhất",
+        "description": "Experience Aloy’s legendary quest to unravel the mysteries of a future Earth ruled by Machines. Use devastating tactical attacks against your prey and explore a majestic open world in this award-winning action RPG!",
+        "category": "Adventure",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/108.jpg",
+        "sell": "4.6M",
+        "price": "1.139.000₫",
+        "rates": 4,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/",
+        "youtube": "Horizon Zero Dawn™ Complete Edition"
+    },
+    {
+        "id": 9,
+        "name": "The Witcher® 3: Wild Hunt",
+        "publisher": "CD PROJEKT RED",
+        "version": "Phiên bản mới nhất",
+        "description": "As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
+        "category": "Action",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/109.jpg",
+        "sell": "2.4M",
+        "price": "390.000₫",
+        "rates": 3,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+        "youtube": "https://www.youtube.com/watch?v=53MyR_Z3i1w"
+    },
+    {
+        "id": 10,
         "name": "Pikachu 2",
         "publisher": "The Pokémon Company",
         "version": "Pikachu classic 2",
         "description": "Là game sắp xếp cặp hình trùng nổi tiếng nhất dành cho máy tính. Hiện nay có nhiều phiên bản game tìm cặp hình trùng khác nhau được phát hành nhưng game Pikachu phiên bản cổ điển này vẫn luôn là lựa chọn hàng đầu những những game thủ sành sỏi",
+        "category": "Intelligence",
         "os": "Windows XP/Vista/7/8/8.1/10/11",
         "img_url": "images/1.png",
         "sell": "3.8M",
@@ -120,11 +169,12 @@
         "link": "installFile/PikachuCoDien2Setup.exe"
     },
     {
-        "id": 9,
+        "id": 11,
         "name": "Geometry Dash",
         "publisher": "RobTop Games",
         "version": "Geometry Dash 1",
         "description": "Một tựa game âm nhạc đã tai.",
+        "category": "Intelligence",
         "os": "Windows 7/8/8.1/10/11",
         "img_url": "images/2.png",
         "sell": "0.5M",
@@ -135,11 +185,12 @@
         "link": "installFile/GeometryDash.rar"
     },
     {
-        "id": 10,
+        "id": 12,
         "name": "Bleach vs Naruto",
         "publisher": "D-Play",
         "version": "2.6",
         "description": "Đây là một game đối kháng giới hạn độ tuổi",
+        "category": "Action",
         "os": "windows XP/Vista/7/8/8.1/10/11",
         "img_url": "images/3.png",
         "sell": "2.6M",
@@ -150,11 +201,80 @@
         "link": "installFile/BleachVsNaruto2.6Full.rar"
     },
     {
-        "id": 11,
+        "id": 13,
+        "name": "Need for Speed™ Unbound",
+        "publisher": "Electronic Arts",
+        "version": "Phiên bản mới nhất",
+        "description": "Race to the top, definitely don’t flop. Outsmart the cops, and enter weekly qualifiers for The Grand: the ultimate street race. Pack your garage with precision-tuned, custom rides and light up the streets with your style.",
+        "category": "Action",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/110.jpg",
+        "sell": "3.2M",
+        "price": "1.090.000₫",
+        "rates": 4,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1846380/Need_for_Speed_Unbound/",
+        "youtube": "https://www.youtube.com/watch?v=H2Y8XCe7F9E"
+    },
+    {
+        "id": 14,
+        "name": "theHunter: Call of the Wild™",
+        "publisher": "Expansive Worlds",
+        "version": "Phiên bản mới nhất",
+        "description": "Experience an atmospheric hunting game like no other in this realistic and visually breathtaking open world. Immerse yourself in the atmospheric single player campaign, or share the ultimate hunting experience with friends.",
+        "category": "Adventure",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/111.jpg",
+        "sell": "1.8M",
+        "price": "188.000₫",
+        "rates": 1,
+        "sale": "-80%",
+        "sale_price": "37.500₫",
+        "link": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/",
+        "youtube": "https://www.youtube.com/watch?v=VGOTYfGMyoE"
+    },
+    {
+        "id": 15,
+        "name": "NARAKA: BLADEPOINT",
+        "publisher": "NetEase Games Global",
+        "version": "Phiên bản mới nhất",
+        "description": "NARAKA: BLADEPOINT is an up to 60-player PVP mythical action combat experience with martial arts inspired melee combat, gravity defying mobility, vast arsenals of melee & ranged weapons, legendary customizable heroes with epic abilities.",
+        "category": "Action",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/112.jpg",
+        "sell": "0.7M",
+        "price": "360.000₫",
+        "rates": 2,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/",
+        "youtube": "https://www.youtube.com/watch?v=Oj8gvce7tXU"
+    },
+    {
+        "id": 16,
+        "name": "STAR WARS Jedi: Survivor",
+        "publisher": "Electronic Arts",
+        "version": "Phiên bản mới nhất",
+        "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
+        "category": "Adventure",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/113.jpg",
+        "sell": "5.4M",
+        "price": "1.090.000₫",
+        "rates": 5,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/",
+        "youtube": "https://www.youtube.com/watch?v=VRaobDJjiec"
+    },
+    {
+        "id": 17,
         "name": "Lines",
         "publisher": "Line Corporation",
         "version": "1",
         "description": "Game Lines là một trò chơi miễn phí. Mục đích là để sắp xếp các quả bóng cùng màu thành một đường thẳng.",
+        "category": "Intelligence",
         "os": "Windows XP/Vista/7/8/8.1/10",
         "img_url": "images/4.png",
         "sell": "6M",
@@ -165,11 +285,12 @@
         "link": "installFile/LinesSetup.exe"
     },
     {
-        "id": 12,
+        "id": 18,
         "name": "Angry Bird",
         "publisher": "Rovio Entertainment",
         "version": "4.0",
         "description": "Angry Birds là game những chú chim nổi giận đình đám, vui nhộn trên máy tính và cả các nền tảng di động",
+        "category": "Intelligence",
         "os": "Windows XP/Vista/7/8/8.1/10/11",
         "img_url": "images/5.png",
         "sell": "7.2M",
@@ -180,11 +301,12 @@
         "link": "installFile/AngryBirdSetup.exe"
     },
     {
-        "id": 13,
+        "id": 19,
         "name": "Đào Vàng",
         "publisher": "Game Rival",
         "version": "Classic",
         "description": "Game đào vàng thuộc thể loại game kinh điển đã xuất hiện từ lâu trên PC và đến nay vẫn có sức hút nhất định. Trong game, bạn sẽ phải đóng vai bác tiều phu săn tìm vàng và nhiều kho báu giá trị từ vực sâu, chinh phục nhiều màn chơi để có những điểm số cao, những phần thưởng hấp dẫn",
+        "category": "Intelligence",
         "os": "Windows XP/Vista/7/8/8.1/10",
         "img_url": "images/6.png",
         "sell": "3.4M",
@@ -195,86 +317,12 @@
         "link": "installFile/DaoVangSetup.exe"
     },
     {
-        "id": 14,
-        "name": "Horizon Zero Dawn™ Complete Edition",
-        "publisher": "PlayStation PC LLC",
-        "version": "Phiên bản mới nhất",
-        "description": "Experience Aloy’s legendary quest to unravel the mysteries of a future Earth ruled by Machines. Use devastating tactical attacks against your prey and explore a majestic open world in this award-winning action RPG!",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/108.jpg",
-        "sell": "4.6M",
-        "price": "$16.49",
-        "rates": 4,
-        "sale": "-40%",
-        "sale_price": "$9.894",
-        "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/"
-    },
-    {
-        "id": 15,
-        "name": "The Witcher® 3: Wild Hunt",
-        "publisher": "CD PROJEKT RED",
-        "version": "Phiên bản mới nhất",
-        "description": "As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/109.jpg",
-        "sell": "2.4M",
-        "price": "$7.99",
-        "rates": 3,
-        "sale": "-55%",
-        "sale_price": "$3.60",
-        "link": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
-    },
-    {
-        "id": 16,
-        "name": "Need for Speed™ Unbound",
-        "publisher": "Electronic Arts",
-        "version": "Phiên bản mới nhất",
-        "description": "Race to the top, definitely don’t flop. Outsmart the cops, and enter weekly qualifiers for The Grand: the ultimate street race. Pack your garage with precision-tuned, custom rides and light up the streets with your style.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/110.jpg",
-        "sell": "3.2M",
-        "price": "$69.99",
-        "rates": 4,
-        "sale": "none",
-        "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1846380/Need_for_Speed_Unbound/"
-    },
-    {
-        "id": 17,
-        "name": "theHunter: Call of the Wild™",
-        "publisher": "Expansive Worlds",
-        "version": "Phiên bản mới nhất",
-        "description": "Experience an atmospheric hunting game like no other in this realistic and visually breathtaking open world. Immerse yourself in the atmospheric single player campaign, or share the ultimate hunting experience with friends.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/111.jpg",
-        "sell": "1.8M",
-        "price": "$3.99",
-        "rates": 1,
-        "sale": "-90%",
-        "sale_price": "$0.399",
-        "link": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/"
-    },
-    {
-        "id": 18,
-        "name": "NARAKA: BLADEPOINT",
-        "publisher": "NetEase Games Global",
-        "version": "Phiên bản mới nhất",
-        "description": "NARAKA: BLADEPOINT is an up to 60-player PVP mythical action combat experience with martial arts inspired melee combat, gravity defying mobility, vast arsenals of melee & ranged weapons, legendary customizable heroes with epic abilities.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/112.jpg",
-        "sell": "0.7M",
-        "price": "$19.99",
-        "rates": 2,
-        "sale": "-15%",
-        "sale_price": "$16.99",
-        "link": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/"
-    },
-    {
-        "id": 19,
+        "id": 20,
         "name": "Cá lớn nuốt cá bé",
         "publisher": "PopCap",
         "version": "5.7",
-        "description": "Là tựa game cá lớn nuốt cá bé được hãng PopCap phát triển.  Game hấp dẫn người chơi ở nhiều độ tuổi nhờ đồ họa bắt mắt, lối chơi đơn giản và mang tính giải trí cao",
+        "description": "Là tựa game cá lớn nuốt cá bé được hãng PopCap phát triển. Game hấp dẫn người chơi ở nhiều độ tuổi nhờ đồ họa bắt mắt, lối chơi đơn giản và mang tính giải trí cao",
+        "category": "Action",
         "os": "Windows 2000/XP/Vista/7/8/10",
         "img_url": "images/8.png",
         "sell": "5.1M",
@@ -285,7 +333,126 @@
         "link": "installFile/FeedingFrenzySetup.exe"
     },
     {
-        "id": 20,
+        "id": 21,
+        "name": "Street Fighter 6",
+        "publisher": "CAPCOM Co., Ltd.",
+        "version": "Phiên bản mới nhất",
+        "description": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.",
+        "category": "Action",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/114.jpg",
+        "sell": "3.5M",
+        "price": "1.322.000₫",
+        "rates": 4,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1364780/Street_Fighter_6/",
+        "youtube": "https://www.youtube.com/watch?v=1INU3FOJsTw"
+    },
+    {
+        "id": 22,
+        "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+        "publisher": "Square Enix",
+        "version": "Phiên bản mới nhất",
+        "description": "CRISIS CORE -FINAL FANTASY VII- REUNION is a remaster of CRISIS CORE featuring updated graphics, combat systems and soundtrack. Follow the tale of SOLDIER operative Zack Fair, as he discovers the secrets of Shinra's dark experiments.",
+        "category": "Adventure",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/115.jpg",
+        "sell": "2.8M",
+        "price": "1.190.000₫",
+        "rates": 2,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/",
+        "youtube": "https://www.youtube.com/watch?v=65lCz22aopY"
+    },
+    {
+        "id": 23,
+        "name": "FINAL FANTASY XIV Online",
+        "publisher": "Square Enix",
+        "version": "Phiên bản mới nhất",
+        "description": "Take part in an epic and ever-changing FINAL FANTASY as you adventure and explore with friends from around the world.",
+        "category": "Action",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/116.jpg",
+        "sell": "1.5M",
+        "price": "Miễn phí",
+        "rates": 3,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/312060/FINAL_FANTASY_XIV_Online_Free_Trial/",
+        "youtube": "https://www.youtube.com/watch?v=zTTtd6bnhFs"
+    },
+    {
+        "id": 24,
+        "name": "God of War",
+        "publisher": "PlayStation PC LLC",
+        "version": "Phiên bản mới nhất",
+        "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+        "category": "Adventure",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/117.jpg",
+        "sell": "7.8M",
+        "price": "1.139.000₫",
+        "rates": 5,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1593500/God_of_War/",
+        "youtube": "https://www.youtube.com/watch?v=6whoKogAr-0"
+    },
+    {
+        "id": 25,
+        "name": "Marvel’s Spider-Man: Miles Morales",
+        "publisher": "PlayStation PC LLC",
+        "version": "Phiên bản mới nhất",
+        "description": "After the events of Marvel’s Spider-Man Remastered, teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle.",
+        "category": "Adventure",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/118.jpg",
+        "sell": "2.4M",
+        "price": "1.159.000₫",
+        "rates": 3,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1817190/Marvels_SpiderMan_Miles_Morales/",
+        "youtube": "https://www.youtube.com/watch?v=NTunTURbyUU"
+    },
+    {
+        "id": 26,
+        "name": "Resident Evil 7 Biohazard",
+        "publisher": "CAPCOM Co., Ltd.",
+        "version": "Phiên bản mới nhất",
+        "description": "Fear and isolation seep through the walls of an abandoned southern farmhouse. 7 marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective.",
+        "category": "Action",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/119.jpg",
+        "sell": "3.1M",
+        "price": "398.000₫",
+        "rates": 4,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/",
+        "youtube": "https://www.youtube.com/watch?v=RgYqQsbKn6w"
+    },
+    {
+        "id": 27,
+        "name": "Ori and the Will of the Wisps",
+        "publisher": "Xbox Game Studios",
+        "version": "Phiên bản mới nhất",
+        "description": "Play the critically acclaimed masterpiece. Embark on a new journey in a vast, exotic world where you’ll encounter towering enemies and challenging puzzles on your quest to unravel Ori’s destiny.",
+        "category": "Action",
+        "os": "Window 7/8/8.1/10/11",
+        "img_url": "images/120.jpg",
+        "sell": "0.4M",
+        "price": "250.000₫",
+        "rates": 1,
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/",
+        "youtube": "https://www.youtube.com/watch?v=2kPSl2vyu2Y"
+    },
+    {
+        "id": 28,
         "name": "Chicken Invaders",
         "publisher": "InterAction studios",
         "version": "1.3",
@@ -300,131 +467,12 @@
         "link": "installFile/ChickenInvadersSetup.exe"
     },
     {
-        "id": 21,
-        "name": "STAR WARS Jedi: Fallen Order™",
-        "publisher": "Electronic Arts",
-        "version": "Phiên bản mới nhất",
-        "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/113.jpg",
-        "sell": "5.4M",
-        "price": "$4.79",
-        "rates": 5,
-        "sale": "-60%",
-        "sale_price": "$1.91",
-        "link": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/"
-    },
-    {
-        "id": 22,
-        "name": "Street Fighter 6",
-        "publisher": "CAPCOM Co., Ltd.",
-        "version": "Phiên bản mới nhất",
-        "description": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/114.jpg",
-        "sell": "3.5M",
-        "price": "$59.99",
-        "rates": 4,
-        "sale": "-50%",
-        "sale_price": "$29.99",
-        "link": "https://store.steampowered.com/app/1364780/Street_Fighter_6/"
-    },
-    {
-        "id": 23,
-        "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
-        "publisher": "Square Enix",
-        "version": "Phiên bản mới nhất",
-        "description": "CRISIS CORE -FINAL FANTASY VII- REUNION is a remaster of CRISIS CORE featuring updated graphics, combat systems and soundtrack. Follow the tale of SOLDIER operative Zack Fair, as he discovers the secrets of Shinra's dark experiments.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/115.jpg",
-        "sell": "2.8M",
-        "price": "$49.99",
-        "rates": 2,
-        "sale": "-30%",
-        "sale_price": "$34.99",
-        "link": "https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/"
-    },
-    {
-        "id": 24,
-        "name": "FINAL FANTASY XIV Online",
-        "publisher": "Square Enix",
-        "version": "Phiên bản mới nhất",
-        "description": "Take part in an epic and ever-changing FINAL FANTASY as you adventure and explore with friends from around the world.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/116.jpg",
-        "sell": "1.5M",
-        "price": "$19.99",
-        "rates": 3,
-        "sale": "-40%",
-        "sale_price": "$11.99",
-        "link": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/"
-    },
-    {
-        "id": 25,
-        "name": "God of War",
-        "publisher": "PlayStation PC LLC",
-        "version": "Phiên bản mới nhất",
-        "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/117.jpg",
-        "sell": "7.8M",
-        "price": "$49.99",
-        "rates": 5,
-        "sale": "-20%",
-        "sale_price": "$39.99",
-        "link": "https://store.steampowered.com/app/1593500/God_of_War/"
-    },
-    {
-        "id": 26,
-        "name": "Marvel’s Spider-Man: Miles Morales",
-        "publisher": "PlayStation PC LLC",
-        "version": "Phiên bản mới nhất",
-        "description": "After the events of Marvel’s Spider-Man Remastered, teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/118.jpg",
-        "sell": "2.4M",
-        "price": "$49.99",
-        "rates": 3,
-        "sale": "-70%",
-        "sale_price": "$34.99",
-        "link": "https://store.steampowered.com/app/1817190/Marvels_SpiderMan_Miles_Morales/"
-    },
-    {
-        "id": 27,
-        "name": "Resident Evil 7 Biohazard",
-        "publisher": "CAPCOM Co., Ltd.",
-        "version": "Phiên bản mới nhất",
-        "description": "Fear and isolation seep through the walls of an abandoned southern farmhouse. 7 marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/119.jpg",
-        "sell": "3.1M",
-        "price": "$15.86",
-        "rates": 4,
-        "sale": "-5%",
-        "sale_price": "$15.07",
-        "link": "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/"
-    },
-    {
-        "id": 28,
-        "name": "Ori and the Will of the Wisps",
-        "publisher": "Xbox Game Studios",
-        "version": "Phiên bản mới nhất",
-        "description": "Play the critically acclaimed masterpiece. Embark on a new journey in a vast, exotic world where you’ll encounter towering enemies and challenging puzzles on your quest to unravel Ori’s destiny.",
-        "os": "Window 7/8/8.1/10/11",
-        "img_url": "images/120.jpg",
-        "sell": "0.4M",
-        "price": "$13.39",
-        "rates": 1,
-        "sale": "-45%",
-        "sale_price": "$7.37",
-        "link": "https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/"
-    },
-    {
         "id": 29,
         "name": "Dynomite",
         "publisher": "PopCap",
         "version": "Classic",
         "description": "Dynomite là tựa game bắn trứng khủng long kinh điển và rất nổi tiếng của hãng Popcap. Game gắn liền tuổi thơ của nhiều người nhờ lối chơi đơn giản và vô cùng thú vị, giúp xả stress hiệu quả.",
+        "category": "Action",
         "os": "WINDOWS XP/Vista/7/8/8.1/10",
         "img_url": "images/7.png",
         "sell": "6.3M",
@@ -440,14 +488,16 @@
         "publisher": "505 Games",
         "version": "Phiên bản mới nhất",
         "description": "Winner of over 80 awards, Control is a visually stunning third-person action-adventure that will keep you on the edge of your seat.",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/121.jpg",
         "sell": "3.9M",
-        "price": "$9.99",
+        "price": "699.000₫",
         "rates": 5,
-        "sale": "-20%",
-        "sale_price": "$7.99",
-        "link": "https://store.steampowered.com/app/870780/Control_Ultimate_Edition/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/870780/Control_Ultimate_Edition/",
+        "youtube": "https://www.youtube.com/watch?v=w6bE11FrSFM"
     },
     {
         "id": 31,
@@ -455,14 +505,16 @@
         "publisher": "2K",
         "version": "Phiên bản mới nhất",
         "description": "An inadvertent brush with the mob thrusts cabdriver Tommy Angelo into the world of organized crime. Initially uneasy about falling in with the Salieri family, the rewards become too big to ignore.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/122.jpg",
         "sell": "2.8M",
-        "price": "$13.99",
+        "price": "698.000₫",
         "rates": 2,
-        "sale": "-50%",
-        "sale_price": "$6.99",
-        "link": "https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/",
+        "youtube": "https://www.youtube.com/watch?v=vfwfA_iTOng"
     },
     {
         "id": 32,
@@ -470,14 +522,16 @@
         "publisher": "WB Games",
         "version": "Phiên bản mới nhất",
         "description": "Experience an epic open-world brought to life by the award-winning Nemesis System. Forge a new Ring of Power, conquer Fortresses in massive battles and dominate Mordor with your personal orc army in Middle-earth™: Shadow of War™.",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/123.jpg",
         "sell": "1.4M",
-        "price": "$10.49",
+        "price": "480.000₫",
         "rates": 3,
-        "sale": "-60%",
-        "sale_price": "$4.20",
-        "link": "https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/",
+        "youtube": "https://www.youtube.com/watch?v=bhSfjt8jQyk"
     },
     {
         "id": 33,
@@ -485,14 +539,16 @@
         "publisher": "Matt Makes Games Inc.",
         "version": "Phiên bản mới nhất",
         "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/124.jpg",
         "sell": "1.1M",
-        "price": "$4.99",
+        "price": "188.000₫",
         "rates": 4,
-        "sale": "-35%",
-        "sale_price": "$3.24",
-        "link": "https://store.steampowered.com/app/504230/Celeste/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/504230/Celeste/",
+        "youtube": "https://www.youtube.com/watch?v=70d9irlxiB4"
     },
     {
         "id": 34,
@@ -500,14 +556,16 @@
         "publisher": "SEGA",
         "version": "Phiên bản mới nhất",
         "description": "Experience Sonic like never before!",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/125.jpg",
         "sell": "5.3M",
-        "price": "$59.99",
+        "price": "830.000₫",
         "rates": 5,
-        "sale": "-77%",
-        "sale_price": "$13.20",
-        "link": "https://store.steampowered.com/app/1237320/Sonic_Frontiers/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1237320/Sonic_Frontiers/",
+        "youtube": "https://www.youtube.com/watch?v=kCaAos6FeV0"
     },
     {
         "id": 35,
@@ -515,14 +573,16 @@
         "publisher": "D3PUBLISHER",
         "version": "Phiên bản mới nhất",
         "description": "A young woman from the 21st century with sharp swordsmanship skills finds herself in Honnō-ji during the Sengoku period! Together with a trio of newfound ninja friends, she races through the Underworld beneath Honnō-ji, confronted by enraged corpses at every turn!",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/126.jpg",
         "sell": "0.9M",
-        "price": "$53.99",
+        "price": "705.000₫",
         "rates": 1,
-        "sale": "-30%",
-        "sale_price": "$37.79",
-        "link": "https://store.steampowered.com/app/1952250/SAMURAI_MAIDEN/"
+        "sale": "-10%",
+        "sale_price": "634.500₫",
+        "link": "https://store.steampowered.com/app/1952250/SAMURAI_MAIDEN/",
+        "youtube": "https://www.youtube.com/watch?v=AeGSVycov64"
     },
     {
         "id": 36,
@@ -530,14 +590,16 @@
         "publisher": "tinyBuild",
         "version": "Phiên bản mới nhất",
         "description": "Hello Neighbor 2 is a stealth horror game about digging up your creepy neighbors’ secrets. But there’s a twist: each Neighbor is controlled by advanced AIs! Can you outsmart the Neighbors and find out what they're hiding?",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/127.jpg",
         "sell": "4.4M",
-        "price": "$59.99",
+        "price": "310.000₫",
         "rates": 4,
-        "sale": "-10%",
-        "sale_price": "$53.99",
-        "link": "https://store.steampowered.com/app/1321680/Hello_Neighbor_2/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1321680/Hello_Neighbor_2/",
+        "youtube": "https://www.youtube.com/watch?v=kotJEIahGdQ"
     },
     {
         "id": 37,
@@ -545,14 +607,16 @@
         "publisher": "Ember Lab",
         "version": "Phiên bản mới nhất",
         "description": "A story-driven, action adventure combining exploration with fast-paced combat. Untangle the past as Kena, a young Spirit Guide in search of the sacred Mountain Shrine. Help free the spirits trapped in a forgotten village with the help of the Rot, her adorable (yet powerful) spirit companions.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/128.jpg",
         "sell": "3.8M",
-        "price": "$19.99",
+        "price": "400.000₫",
         "rates": 2,
-        "sale": "-40%",
-        "sale_price": "$11.99",
-        "link": "https://store.steampowered.com/app/1954200/Kena_Bridge_of_Spirits/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1954200/Kena_Bridge_of_Spirits/",
+        "youtube": "https://www.youtube.com/watch?v=pWh5388AEHw"
     },
     {
         "id": 38,
@@ -560,14 +624,16 @@
         "publisher": "Xbox Game Studios",
         "version": "Phiên bản mới nhất",
         "description": "The world is a vast, beautiful and dangerous place – especially when you have been shrunk to the size of an ant. Can you thrive alongside the hordes of giant insects, fighting to survive the perils of the backyard?",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/129.jpg",
         "sell": "6.2M",
-        "price": "$39.99",
+        "price": "649.000₫",
         "rates": 5,
-        "sale": "-60%",
-        "sale_price": "$15.99",
-        "link": "https://store.steampowered.com/app/962130/Grounded/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/962130/Grounded/",
+        "youtube": "https://www.youtube.com/watch?v=_BqgJ9nW468"
     },
     {
         "id": 39,
@@ -575,14 +641,16 @@
         "publisher": "Focus Entertainment",
         "version": "Phiên bản mới nhất",
         "description": "Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/130.jpg",
         "sell": "2.5M",
-        "price": "$39.99",
+        "price": "650.000₫",
         "rates": 3,
-        "sale": "-25%",
-        "sale_price": "$29.99",
-        "link": "https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/",
+        "youtube": "https://www.youtube.com/watch?v=qIbzwb8vzNI"
     },
     {
         "id": 40,
@@ -590,15 +658,16 @@
         "publisher": "Steppe Hare Studio",
         "version": "Phiên bản mới nhất",
         "description": "Christmas is a joyful time, but this time something dark is hiding behind the holiday decorations. Your actions will determine whether you and your girlfriend survive Christmas night.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1001.jpg",
         "sell": "2M",
-        "price": "71.000₫",
+        "price": "90.000₫",
         "rates": 4,
-        "sale": "-20%",
-        "sale_price": "56.800₫",
-        "link": "https://store.steampowered.com/app/2067790/Crimson_Snow/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/2067790/Crimson_Snow/",
+        "youtube": "https://www.youtube.com/watch?v=NtilE9t9QNU"
     },
     {
         "id": 41,
@@ -606,7 +675,7 @@
         "publisher": "Joey Drew Studios",
         "version": "Phiên bản mới nhất",
         "description": "Bendy and the Dark Revival® is a first-person survival horror game set in the creepiest cartoon studio to ever exist. Discover the truth. Escape the studio. Above all, fear the Ink Demon…and survive.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1002.jpg",
         "sell": "3.3M",
@@ -614,7 +683,8 @@
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1063660/Bendy_and_the_Dark_Revival/"
+        "link": "https://store.steampowered.com/app/1063660/Bendy_and_the_Dark_Revival/",
+        "youtube": "https://www.youtube.com/watch?v=R365IYrPgoE"
     },
     {
         "id": 42,
@@ -622,15 +692,16 @@
         "publisher": "10tons Ltd",
         "version": "Phiên bản mới nhất",
         "description": "As a powerful necromancer you have the ability to raise the dead and command them in battle. With each victory, your army will grow stronger and your city will become more powerful. Undead Horde 2 is an action game with elements from RPG, strategy and hack'n'slash. Rise from the crypt and rebuild!",
-        "theloai": "Horror",
+        "category": "Horror",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1003.jpg",
         "sell": "3.2M",
-        "price": "181.000₫",
+        "price": "226.000₫",
         "rates": 3,
-        "sale": "-25%",
-        "sale_price": "135.750₫",
-        "link": "https://store.steampowered.com/app/2065810/Undead_Horde_2_Necropolis/"
+        "sale": "-20%",
+        "sale_price": "181.000₫",
+        "link": "https://store.steampowered.com/app/2065810/Undead_Horde_2_Necropolis/",
+        "youtube": "https://www.youtube.com/watch?v=Z6vbMU84vP4"
     },
     {
         "id": 43,
@@ -638,7 +709,7 @@
         "publisher": "Warner Bros. Games",
         "version": "Phiên bản mới nhất",
         "description": "Batman is dead. It is now up to the Batman Family - Batgirl, Nightwing, Red Hood, and Robin - to protect Gotham City.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1004.jpg",
         "sell": "3.9M",
@@ -646,7 +717,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1496790/Gotham_Knights/"
+        "link": "https://store.steampowered.com/app/1496790/Gotham_Knights/",
+        "youtube": "https://www.youtube.com/watch?v=wIXJAqs9dG4"
     },
     {
         "id": 44,
@@ -654,15 +726,16 @@
         "publisher": "Thunderful Publishing",
         "version": "Phiên bản mới nhất",
         "description": "Swordship is a futuristic lightning-fast dodge’em up which flips the script on the traditional arcade shooter. Turn both the tide of battle and enemies on themselves by dodging, weaving and diving your way through an onslaught of enemies hell-bent on tearing your Swordship apart",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1005.jpg",
         "sell": "2.1M",
         "price": "260.000₫",
         "rates": 3,
-        "sale": "-10%",
-        "sale_price": "234.000₫",
-        "link": "https://store.steampowered.com/app/1804270/Swordship/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1804270/Swordship/",
+        "youtube": "https://www.youtube.com/watch?v=7on3iW5EcLM"
     },
     {
         "id": 45,
@@ -670,7 +743,7 @@
         "publisher": "Dire Wolf",
         "version": "Phiên bản mới nhất",
         "description": "Kill the monsters & grab the loot in the classic card game!",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1006.jpg",
         "sell": "3.2M",
@@ -678,7 +751,8 @@
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1722860/Munchkin_Digital/"
+        "link": "https://store.steampowered.com/app/1722860/Munchkin_Digital/",
+        "youtube": "https://www.youtube.com/watch?v=MXe83kgeWZ4"
     },
     {
         "id": 46,
@@ -686,15 +760,16 @@
         "publisher": "Jordy Lakiere",
         "version": "Phiên bản mới nhất",
         "description": "Fight & strategize your way through spectacles and arenas -- rise from lowly slave to Grand Champion and earn your freedom. Or... die trying. This Gladiator RPG Roguelite features in-depth career management and a unique physics simulated combat system",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1007.jpg",
         "sell": "4.1M",
         "price": "280.000₫",
         "rates": 3,
-        "sale": "-15%",
-        "sale_price": "283.000₫",
-        "link": "https://store.steampowered.com/app/973230/We_Who_Are_About_To_Die/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/973230/We_Who_Are_About_To_Die/",
+        "youtube": "https://www.youtube.com/watch?v=ABYdOd_llhc"
     },
     {
         "id": 47,
@@ -702,7 +777,7 @@
         "publisher": "Crytek",
         "version": "Phiên bản mới nhất",
         "description": "Relive the legendary single-player campaign from the classic first-person shooter, Crysis 2, optimized for today's hardware in Crysis 2 Remastered.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1008.jpg",
         "sell": "3.7M",
@@ -710,7 +785,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/2096600/Crysis_2_Remastered/"
+        "link": "https://store.steampowered.com/app/2096600/Crysis_2_Remastered/",
+        "youtube": "https://www.youtube.com/watch?v=aPXIhoD6odw"
     },
     {
         "id": 48,
@@ -718,15 +794,16 @@
         "publisher": "WhisperGames",
         "version": "Phiên bản mới nhất",
         "description": "Confront time and fate in the 2D action RPG, Astlibra Revision. Explore meticulously crafted worlds, fight brutal boss battles, and upgrade your skills to take down enemies lurking around every corner.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1009.jpg",
         "sell": "2.5M",
         "price": "220.000₫",
         "rates": 3,
-        "sale": "-30%",
-        "sale_price": "154.000₫",
-        "link": "https://store.steampowered.com/app/1718570/ASTLIBRA_Revision/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1718570/ASTLIBRA_Revision/",
+        "youtube": "https://www.youtube.com/watch?v=L27QwqQuUMA"
     },
     {
         "id": 49,
@@ -734,15 +811,16 @@
         "publisher": "OTAKU Plan",
         "version": "Phiên bản mới nhất",
         "description": "One day, mysterious sheep began to appear in Hitsuji-chan's house! And strange things happen around everyone in the city... When you dream, you can enter the dream dungeon. Let's capture the dream dungeon and solve the mysterious phenomenon",
-        "theloai": "FPS",
+        "category": "FPS",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1010.jpg",
         "sell": "3.3M",
-        "price": "203.500₫",
+        "price": "226.000₫",
         "rates": 3,
-        "sale": "none",
-        "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1973730/Sheep_in_Dreams/"
+        "sale": "-10%",
+        "sale_price": "203.500₫",
+        "link": "https://store.steampowered.com/app/1973730/Sheep_in_Dreams/",
+        "youtube": "https://www.youtube.com/watch?v=l_QGFgeSxPs"
     },
     {
         "id": 50,
@@ -750,15 +828,16 @@
         "publisher": "Stress Level Zero",
         "version": "Phiên bản mới nhất",
         "description": "BONELAB is an experimental physics action game. Explore a mysterious lab filled with weapons, enemies, challenges and secrets. Escape your reality, or wreak havoc. No wrong answers.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1011.jpg",
         "sell": "1.2M",
         "price": "470.000₫",
         "rates": 4,
-        "sale": "-40%",
-        "sale_price": "282.000₫",
-        "link": "https://store.steampowered.com/app/1592190/BONELAB/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1592190/BONELAB/",
+        "youtube": "https://www.youtube.com/watch?v=MJIkIHfEzJ4"
     },
     {
         "id": 51,
@@ -766,7 +845,7 @@
         "publisher": "Team17",
         "version": "Phiên bản mới nhất",
         "description": "Marauders is a tactical first-person multiplayer looter shooter set in a sci-fi universe. As a space pirate, work solo, or in a squad with up to 3 other players to navigate a hostile battleground, hunt for loot, craft new weapons and gear, and salvage what you’ll need to survive.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1012.jpg",
         "sell": "1.5M",
@@ -774,7 +853,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1789480/Marauders/"
+        "link": "https://store.steampowered.com/app/1789480/Marauders/",
+        "youtube": "https://www.youtube.com/watch?v=JJ8rxE1dbFg"
     },
     {
         "id": 52,
@@ -782,15 +862,16 @@
         "publisher": "rainstory.games",
         "version": "Phiên bản mới nhất",
         "description": "Control a space rover as you jump to avoid obstacles on a horizontally scrolling landscape while shooting down alien ships that shoot missiles from above or charge you head on. A love letter to the first game I ever played on PC.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1013.jpg",
         "sell": "2.4M",
-        "price": "18.000₫",
+        "price": "30.000₫",
         "rates": 5,
-        "sale": "-10%",
-        "sale_price": "16.200₫",
-        "link": "https://store.steampowered.com/app/2196050/Outworld_Patrol/"
+        "sale": "-40%",
+        "sale_price": "18.000₫",
+        "link": "https://store.steampowered.com/app/2196050/Outworld_Patrol/",
+        "youtube": "https://www.youtube.com/watch?v=753tf5sDMHs"
     },
     {
         "id": 53,
@@ -798,7 +879,7 @@
         "publisher": "Humble Games",
         "version": "Phiên bản mới nhất",
         "description": "A classic survival horror experience set in a dystopian future where humanity has uncovered a dark secret. Unravel a cosmic mystery, escape terrifying creatures, and scavenge an off-world government facility as Elster, a technician Replika searching for her lost dreams.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1014.jpg",
         "sell": "0.8M",
@@ -806,7 +887,8 @@
         "rates": 2,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1262350/SIGNALIS/"
+        "link": "https://store.steampowered.com/app/1262350/SIGNALIS/",
+        "youtube": "https://www.youtube.com/watch?v=4KFiOp2o4L8"
     },
     {
         "id": 54,
@@ -814,15 +896,16 @@
         "publisher": "Qugen",
         "version": "Phiên bản mới nhất",
         "description": "Fight off ferocious mutants and vicious monsters, and try to escape alive! In Scavenia Survivor, you're not playing as a hero; instead, you'll feel helplessly trapped in a dark and dangerous world full of dangers waiting to destroy you.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1015.jpg",
         "sell": "2.7M",
-        "price": "31.500₫",
+        "price": "45.000₫",
         "rates": 4,
-        "sale": "-15%",
-        "sale_price": "26.775₫",
-        "link": "https://store.steampowered.com/app/2209130/Scavenia_Survivors/"
+        "sale": "-30%",
+        "sale_price": "31.500₫",
+        "link": "https://store.steampowered.com/app/2209130/Scavenia_Survivors/",
+        "youtube": "https://www.youtube.com/watch?v=VRaobDJjiec"
     },
     {
         "id": 55,
@@ -830,7 +913,7 @@
         "publisher": "MY.GAMES",
         "version": "Phiên bản mới nhất",
         "description": "War Robots: Frontiers is an online multiplayer third-person shooter. Team up, fight with heavy metal machines, then shoot and smash your way to victory in fast-paced battles!",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1016.jpg",
         "sell": "1.4M",
@@ -838,7 +921,8 @@
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1491000/War_Robots_Frontiers/"
+        "link": "https://store.steampowered.com/app/1491000/War_Robots_Frontiers/",
+        "youtube": "https://www.youtube.com/watch?v=2N6z7znhm8M"
     },
     {
         "id": 56,
@@ -846,15 +930,16 @@
         "publisher": "Nacon",
         "version": "Phiên bản mới nhất",
         "description": "Made by and for skaters, the dual stick controls faithfully reproduce your feet on the skateboard for an ultra-realistic experience. Try out real-life iconic skate spots, customise your skater and equipment with items from the top brands",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1017.jpg",
         "sell": "3.8M",
         "price": "310.000₫",
         "rates": 4,
-        "sale": "-50%",
-        "sale_price": "155.000₫",
-        "link": "https://store.steampowered.com/app/861650/Session_Skate_Sim/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/861650/Session_Skate_Sim/",
+        "youtube": "https://www.youtube.com/watch?v=qBMqPMPzGUY"
     },
     {
         "id": 57,
@@ -862,7 +947,7 @@
         "publisher": "BlackMill Games",
         "version": "Phiên bản mới nhất",
         "description": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1018.jpg",
         "sell": "2.4M",
@@ -870,7 +955,8 @@
         "rates": 2,
         "sale": "-20%",
         "sale_price": "308.000₫",
-        "link": "https://store.steampowered.com/app/1556790/Isonzo/"
+        "link": "https://store.steampowered.com/app/1556790/Isonzo/",
+        "youtube": "https://www.youtube.com/watch?v=LYmuhQmRb4M"
     },
     {
         "id": 58,
@@ -878,7 +964,7 @@
         "publisher": "Prime Matter",
         "version": "Phiên bản mới nhất",
         "description": "Gungrave G.O.R.E is a stylish third-person action shooter by South-Korean Studio IGGYMOB in which you take on the role of Grave, a gunslinger of resurrection and badass anti-hero of your dreams, mowing down tons of enemies in a gory ballet of bullets.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1019.jpg",
         "sell": "2.3M",
@@ -886,7 +972,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1630110/Gungrave_GORE/"
+        "link": "https://store.steampowered.com/app/1630110/Gungrave_GORE/",
+        "youtube": "https://www.youtube.com/watch?v=RHujhjqiqIo"
     },
     {
         "id": 59,
@@ -894,15 +981,16 @@
         "publisher": "Raw Fury",
         "version": "Phiên bản mới nhất",
         "description": "Defend against waves of alien attackers in this innovative roguelike survival miner. Dig for resources and choose from powerful upgrade paths. Is there enough time to mine a little deeper and get back to defend before the monsters attack your dome?",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1020.jpg",
         "sell": "2.8M",
         "price": "290.000₫",
         "rates": 2,
-        "sale": "-30%",
-        "sale_price": "203.000₫",
-        "link": "https://store.steampowered.com/app/1637320/Dome_Keeper/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1637320/Dome_Keeper/",
+        "youtube": "https://www.youtube.com/watch?v=qTnGtmh8eTE"
     },
     {
         "id": 60,
@@ -910,7 +998,7 @@
         "publisher": "SEGA",
         "version": "Phiên bản mới nhất",
         "description": "When a police officer discloses the murder of the student teacher who bullied his son to suicide, the twisted secrets of a Yokohama, high school bleed out. Nothing, in this case, is black and white.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1021.jpg",
         "sell": "1.3M",
@@ -918,7 +1006,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/2058190/Lost_Judgment/"
+        "link": "https://store.steampowered.com/app/2058190/Lost_Judgment/",
+        "youtube": "https://www.youtube.com/watch?v=yXufyWdCa_U"
     },
     {
         "id": 61,
@@ -926,15 +1015,16 @@
         "publisher": "iolaCorp Studio",
         "version": "Phiên bản mới nhất",
         "description": "Walk upon a new world and slay foes endangering it. Rogue : Genesia is an action rogue-lite game, where you fight relentless hordes consisting of hundreds and thousands of monsters, carve your path through their ranks, defeat the boss and save one of the many worlds.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1022.jpg",
         "sell": "4.6M",
         "price": "73.500₫",
         "rates": 3,
-        "sale": "-15%",
-        "sale_price": "62.475₫",
-        "link": "https://store.steampowered.com/app/2067920/Rogue_Genesia/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/2067920/Rogue_Genesia/",
+        "youtube": "https://www.youtube.com/watch?v=AwrBDhWiWoM"
     },
     {
         "id": 62,
@@ -942,7 +1032,7 @@
         "publisher": "CITY CONNECTION",
         "version": "Phiên bản mới nhất",
         "description": "Infiltrate a terrorist occupied tower, airport, and shopping mall to get classified data and stop their plans. New features have been added to this revival of the home console version of Elevator Action Returns, a masterpiece 2D action game. Also features 2 player mode.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1023.jpg",
         "sell": "3.1M",
@@ -950,7 +1040,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1913680/Elevator_Action_Returns_STribute/"
+        "link": "https://store.steampowered.com/app/1913680/Elevator_Action_Returns_STribute/",
+        "youtube": "https://www.youtube.com/watch?v=eqeSGjCKV68"
     },
     {
         "id": 63,
@@ -958,15 +1049,16 @@
         "publisher": "Square Enix",
         "version": "Phiên bản mới nhất",
         "description": "HARVESTELLA, an all-new life-simulation RPG from SQUARE ENIX! Lead a life of self-sufficiency with your vibrant house as a base and cooperate with allies to overcome various threats.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1024.jpg",
         "sell": "1.2M",
         "price": "1.499.000₫",
         "rates": 5,
-        "sale": "-20%",
-        "sale_price": "1.199.200₫",
-        "link": "https://store.steampowered.com/app/1816300/HARVESTELLA/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1816300/HARVESTELLA/",
+        "youtube": "https://www.youtube.com/watch?v=YAdrgbcdcp8"
     },
     {
         "id": 64,
@@ -974,7 +1066,7 @@
         "publisher": "SEGA",
         "version": "Phiên bản mới nhất",
         "description": "Fight for the truth and uncover the twisted crime running deep beneath the surface of Tokyo. In this legal thriller , the balance between justice and mercy teeters on the edge.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1025.jpg",
         "sell": "3M",
@@ -982,7 +1074,8 @@
         "rates": 2,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/2058180/Judgment/"
+        "link": "https://store.steampowered.com/app/2058180/Judgment/",
+        "youtube": "https://www.youtube.com/watch?v=38dK9-y0cbM"
     },
     {
         "id": 65,
@@ -990,15 +1083,16 @@
         "publisher": "株式会社3goo",
         "version": "Phiên bản mới nhất",
         "description": "A legendary arcade game developed by Dimps in 2005. This fighting game gained popularity for its smooth visuals powered by S.M.A as well as the high level of strategy driven by its 2-gauge system. And with the addition of new current-gen features it's even easier to play.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1026.jpg",
         "sell": "2.3M",
         "price": "623.500₫",
         "rates": 3,
-        "sale": "-25%",
-        "sale_price": "467.625₫",
-        "link": "https://store.steampowered.com/app/2059960/The_Rumble_Fish_2/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/2059960/The_Rumble_Fish_2/",
+        "youtube": "https://www.youtube.com/watch?v=7qqJMimWq4c"
     },
     {
         "id": 66,
@@ -1006,7 +1100,7 @@
         "publisher": "Two Star Games",
         "version": "Phiên bản mới nhất",
         "description": "Navigate an open-world island in an old train, upgrade it over time, and use it to fight an evil spider train named Charles.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1027.jpg",
         "sell": "3M",
@@ -1014,7 +1108,8 @@
         "rates": 1,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1766740/ChooChoo_Charles/"
+        "link": "https://store.steampowered.com/app/1766740/ChooChoo_Charles/",
+        "youtube": "https://www.youtube.com/watch?v=p1pnCCmc_OE"
     },
     {
         "id": 67,
@@ -1022,15 +1117,16 @@
         "publisher": "FIVE-BN GAMES",
         "version": "Phiên bản mới nhất",
         "description": "An artifact found on Earth interferes with Susan's life and forces her to return to adventures. “Lost Lands: Sand Captivity” is an adventure game in the genre of Hidden Objects, with plenty of mini-games and puzzles, unforgettable characters and complicated quests.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1028.jpg",
         "sell": "1.4M",
         "price": "90.000₫",
         "rates": 4,
-        "sale": "-60%",
-        "sale_price": "36.000₫",
-        "link": "https://store.steampowered.com/app/2098090/Lost_Lands_Sand_Captivity/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/2098090/Lost_Lands_Sand_Captivity/",
+        "youtube": "https://www.youtube.com/watch?v=fLe3upZead4"
     },
     {
         "id": 68,
@@ -1038,7 +1134,7 @@
         "publisher": "PlayStation PC LLC",
         "version": "Phiên bản mới nhất",
         "description": "PERFECTLY CRAFTED FOR PCPlayStation® icon Sackboy bursts into action on PC in a huge 3D multiplayer platforming adventure. • An epic journey stuffed with platforming challenges.• Deeply immersive controls.• Collaborative, chaotic and joyful multiplayer fun.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1029.jpg",
         "sell": "2.2M",
@@ -1046,7 +1142,8 @@
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1599660/Sackboy_A_Big_Adventure/"
+        "link": "https://store.steampowered.com/app/1599660/Sackboy_A_Big_Adventure/",
+        "youtube": "https://www.youtube.com/watch?v=ZOk3fj5ujNM"
     },
     {
         "id": 69,
@@ -1054,7 +1151,7 @@
         "publisher": "Big Fish Games",
         "version": "Phiên bản mới nhất",
         "description": "A tough year has put a damper on your town’s holiday cheer. With Christmas just around the corner, it’s up to you and a jolly cab driver named Nick to help townspeople in need and share the true meaning of Christmas with one and all!",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1030.jpg",
         "sell": "2.8M",
@@ -1062,7 +1159,8 @@
         "rates": 4,
         "sale": "-10%",
         "sale_price": "173.000₫",
-        "link": "https://store.steampowered.com/app/2236230/Christmas_Stories_Taxi_of_Miracles_Collectors_Edition/"
+        "link": "https://store.steampowered.com/app/2236230/Christmas_Stories_Taxi_of_Miracles_Collectors_Edition/",
+        "youtube": "https://www.youtube.com/watch?v=1Wx6lpz6wGk"
     },
     {
         "id": 70,
@@ -1070,7 +1168,7 @@
         "publisher": "Monomi Park",
         "version": "Phiên bản mới nhất",
         "description": "Continue the adventures of Beatrix LeBeau as she journeys across the Slime Sea to Rainbow Island, a land brimming with ancient mysteries, and bursting with wiggly, new slimes to wrangle in this sequel to the smash-hit, Slime Rancher.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1031.jpg",
         "sell": "2.3M",
@@ -1078,7 +1176,8 @@
         "rates": 2,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1657630/Slime_Rancher_2/"
+        "link": "https://store.steampowered.com/app/1657630/Slime_Rancher_2/",
+        "youtube": "https://www.youtube.com/watch?v=0tasJWFnakI"
     },
     {
         "id": 71,
@@ -1086,15 +1185,16 @@
         "publisher": "Ravenage Games, 2P Games",
         "version": "Phiên bản mới nhất",
         "description": "A challenging exploration and survival adventure, set in the dying world of Dragons. Only those who harness the power of Frozen Flame have the means to survive the harsh conditions of the realm and able to muster the strength to cleanse it for good.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1032.jpg",
         "sell": "2.6M",
         "price": "385.000₫",
         "rates": 1,
-        "sale": "-10%",
-        "sale_price": "346.500₫",
-        "link": "https://store.steampowered.com/app/715400/Frozen_Flame/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/715400/Frozen_Flame/",
+        "youtube": "https://www.youtube.com/watch?v=IaJywiVX_MY"
     },
     {
         "id": 72,
@@ -1102,7 +1202,7 @@
         "publisher": "zGames",
         "version": "Phiên bản mới nhất",
         "description": "Dungeon King is a turn-based adventure puzzle. Player should smash all enemies on tile based map avoiding traps and plan his moves ahead.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1033.jpg",
         "sell": "1.9M",
@@ -1110,7 +1210,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/2202360/Dungeon_King/"
+        "link": "https://store.steampowered.com/app/2202360/Dungeon_King/",
+        "youtube": "https://www.youtube.com/watch?v=_cZDmsD19Qk"
     },
     {
         "id": 73,
@@ -1118,15 +1219,16 @@
         "publisher": "Sky Games",
         "version": "Phiên bản mới nhất",
         "description": "Embark on a 1-4 players survival adventure in search of a myth called the Lod Stone in a mysterious wilderness. Discover resources, build your base, sow your crops. Fight the keepers in the regions in order to solve the mystery of the Lod stone.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1034.jpg",
         "sell": "3.4M",
         "price": "142.000₫",
         "rates": 4,
-        "sale": "-20%",
-        "sale_price": "113.600₫",
-        "link": "https://store.steampowered.com/app/1818230/Lodventure/"
+        "sale": "-10%",
+        "sale_price": "128.000₫",
+        "link": "https://store.steampowered.com/app/1818230/Lodventure/",
+        "youtube": "https://www.youtube.com/watch?v=EWGD0axqDCA"
     },
     {
         "id": 74,
@@ -1134,7 +1236,7 @@
         "publisher": "Axolot Games",
         "version": "Phiên bản mới nhất",
         "description": "Raft throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1035.jpg",
         "sell": "1,6M",
@@ -1142,7 +1244,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/648800/Raft/"
+        "link": "https://store.steampowered.com/app/648800/Raft/",
+        "youtube": "https://www.youtube.com/watch?v=58zeu7HA4cA"
     },
     {
         "id": 75,
@@ -1150,15 +1253,16 @@
         "publisher": "EXBO",
         "version": "Phiên bản mới nhất",
         "description": "STALCRAFT is a dynamic MMOFPS with survival horror elements, set in the open world of the Chernobyl Exclusion Zone.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1036.jpg",
         "sell": "2.1M",
-        "price": "300.000₫",
+        "price": "Miễn phí",
         "rates": 3,
-        "sale": "-70%",
-        "sale_price": "90.000₫",
-        "link": "https://store.steampowered.com/app/1818450/STALCRAFT/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1818450/STALCRAFT/",
+        "youtube": "https://www.youtube.com/watch?v=4ro-IcKNxZo"
     },
     {
         "id": 76,
@@ -1166,7 +1270,7 @@
         "publisher": "Omeda Studios",
         "version": "Phiên bản mới nhất",
         "description": "Predecessor is a fast-paced action game that combines MOBA and FPS gameplay putting you at the heart of the fight with strategic choice, third-person control and immersive action.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1037.jpg",
         "sell": "0.42M",
@@ -1174,7 +1278,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/961200/Predecessor/"
+        "link": "https://store.steampowered.com/app/961200/Predecessor/",
+        "youtube": "https://www.youtube.com/watch?v=JHpJZ6okj3A"
     },
     {
         "id": 77,
@@ -1182,15 +1287,16 @@
         "publisher": "Betagames Group",
         "version": "Phiên bản mới nhất",
         "description": "171 is an open world action adventure game with a Brazilian inspired ambience.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1038.jpg",
         "sell": "3.9M",
         "price": "250.000₫",
         "rates": 2,
-        "sale": "-35%",
-        "sale_price": "162.500₫",
-        "link": "https://store.steampowered.com/app/1269370/171/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1269370/171/",
+        "youtube": "https://www.youtube.com/watch?v=V6qnyGGZ9Xo"
     },
     {
         "id": 78,
@@ -1198,15 +1304,16 @@
         "publisher": "Gaggle Studios, Inc.",
         "version": "Phiên bản mới nhất",
         "description": "Goose, goose, DUCK? A game of social deduction where you and your fellow geese must work together to complete your mission. Keep an eye out for those malicious Mallards and other birds, who have infiltrated your team and will do anything to stop you.",
-        "theloai": "Intelligence",
+        "category": "Intelligence",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1039.jpg",
         "sell": "3.5M",
-        "price": "250.000₫",
+        "price": "Miễn phí",
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1568590/Goose_Goose_Duck/"
+        "link": "https://store.steampowered.com/app/1568590/Goose_Goose_Duck/",
+        "youtube": "https://www.youtube.com/watch?v=bHrHDenJlG8"
     },
     {
         "id": 79,
@@ -1214,15 +1321,16 @@
         "publisher": "Studio Wildcard",
         "version": "Phiên bản mới nhất",
         "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1040.jpg",
         "sell": "1.2M",
-        "price": "188.000₫₫",
+        "price": "188.000₫",
         "rates": 4,
-        "sale": "-15%",
-        "sale_price": "159.800₫",
-        "link": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/",
+        "youtube": "https://www.youtube.com/watch?v=5fIAPcVdZO8"
     },
     {
         "id": 80,
@@ -1230,7 +1338,7 @@
         "publisher": "Activision",
         "version": "Phiên bản mới nhất",
         "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1041.jpg",
         "sell": "2.4M",
@@ -1238,7 +1346,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/"
+        "link": "https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/",
+        "youtube": "https://www.youtube.com/watch?v=r72GP1PIZa0"
     },
     {
         "id": 81,
@@ -1246,15 +1355,16 @@
         "publisher": "CD PROJEKT RED",
         "version": "Phiên bản mới nhất",
         "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1042.jpg",
         "sell": "3.6M",
         "price": "990.000₫",
         "rates": 2,
-        "sale": "-10%",
-        "sale_price": "891.000₫",
-        "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+        "sale": "none",
+        "sale_price": "none",
+        "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+        "youtube": "https://www.youtube.com/watch?v=LembwKDo1Dk"
     },
     {
         "id": 82,
@@ -1262,15 +1372,16 @@
         "publisher": "Valve",
         "version": "Phiên bản mới nhất",
         "description": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1043.jpg",
         "sell": "2M",
-        "price": "450.000₫",
+        "price": "142.000₫",
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/550/Left_4_Dead_2/"
+        "link": "https://store.steampowered.com/app/550/Left_4_Dead_2/",
+        "youtube": "https://www.youtube.com/watch?v=Iqid90JR6BY"
     },
     {
         "id": 83,
@@ -1278,15 +1389,16 @@
         "publisher": "2K",
         "version": "Phiên bản mới nhất",
         "description": "Rise to the occasion in NBA 2K23. Showcase your talent in MyCAREER. Pair All-Stars with timeless legends in MyTEAM. Build your own dynasty in MyGM, or guide the NBA in a new direction with MyLEAGUE. Take on NBA or WNBA teams in PLAY NOW and feel true-to-life gameplay.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1044.jpg",
         "sell": "1.8M",
         "price": "1.400.000₫",
         "rates": 4,
         "sale": "-50%",
-        "sale_price": "700.000₫₫",
-        "link": ""
+        "sale_price": "700.000₫",
+        "link": "https://store.steampowered.com/app/1919590/NBA_2K23/",
+        "youtube": "https://www.youtube.com/watch?v=RxLS5Tgo9YM"
     },
     {
         "id": 84,
@@ -1294,7 +1406,7 @@
         "publisher": "Electronic Arts",
         "version": "Phiên bản mới nhất",
         "description": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges. Winner of GAME OF THE YEAR at the Game Awards 2021.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1045.jpg",
         "sell": "2.3M",
@@ -1302,7 +1414,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": ""
+        "link": "https://store.steampowered.com/app/1426210/It_Takes_Two/",
+        "youtube": "https://www.youtube.com/watch?v=ohClxMmNLQQ"
     },
     {
         "id": 85,
@@ -1310,7 +1423,7 @@
         "publisher": "Electronic Arts",
         "version": "Phiên bản mới nhất",
         "description": "Powered by Football™, EA SPORTS™ FIFA 22 brings the game even closer to the real thing with fundamental gameplay advances and a new season of innovation across every mode.",
-        "theloai": "Sport",
+        "category": "Sport",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1046.jpg",
         "sell": "2M",
@@ -1318,7 +1431,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1506830/FIFA_22/"
+        "link": "https://store.steampowered.com/app/1506830/FIFA_22/",
+        "youtube": "https://www.youtube.com/watch?v=SYsi5QuOJNE"
     },
     {
         "id": 86,
@@ -1326,7 +1440,7 @@
         "publisher": "Techland",
         "version": "Phiên bản mới nhất",
         "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1047.jpg",
         "sell": "2.6M",
@@ -1334,7 +1448,8 @@
         "rates": 3,
         "sale": "-70%",
         "sale_price": "98.500₫",
-        "link": "https://store.steampowered.com/app/239140/Dying_Light/"
+        "link": "https://store.steampowered.com/app/239140/Dying_Light/",
+        "youtube": "https://www.youtube.com/watch?v=CWX6DbAMTR4"
     },
     {
         "id": 87,
@@ -1342,7 +1457,7 @@
         "publisher": "Endnight Games Ltd",
         "version": "Phiên bản mới nhất",
         "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1048.jpg",
         "sell": "4.6M",
@@ -1350,7 +1465,8 @@
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/242760/The_Forest/"
+        "link": "https://store.steampowered.com/app/242760/The_Forest/",
+        "youtube": "https://www.youtube.com/watch?v=76dHkDhOZ04"
     },
     {
         "id": 88,
@@ -1358,7 +1474,7 @@
         "publisher": "poncle",
         "version": "Phiên bản mới nhất",
         "description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1049.jpg",
         "sell": "1.2M",
@@ -1366,7 +1482,8 @@
         "rates": 2,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1794680/Vampire_Survivors/"
+        "link": "https://store.steampowered.com/app/1794680/Vampire_Survivors/",
+        "youtube": "https://www.youtube.com/watch?v=aS7JqyHdQQA"
     },
     {
         "id": 89,
@@ -1374,7 +1491,7 @@
         "publisher": "Activision",
         "version": "Phiên bản mới nhất",
         "description": "Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1050.jpg",
         "sell": "1.9M",
@@ -1382,7 +1499,8 @@
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"
+        "link": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/",
+        "youtube": "https://www.youtube.com/watch?v=4OgoTZXPACo"
     },
     {
         "id": 90,
@@ -1390,7 +1508,7 @@
         "publisher": "Nicalis, Inc",
         "version": "Phiên bản mới nhất",
         "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1051.jpg",
         "sell": "3.5M",
@@ -1398,7 +1516,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/"
+        "link": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/",
+        "youtube": "https://www.youtube.com/watch?v=Z6_C2ppkdVc"
     },
     {
         "id": 91,
@@ -1406,7 +1525,7 @@
         "publisher": "Blobfish",
         "version": "Phiên bản mới nhất",
         "description": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1052.jpg",
         "sell": "2.3M",
@@ -1414,7 +1533,8 @@
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1942280/Brotato/"
+        "link": "https://store.steampowered.com/app/1942280/Brotato/",
+        "youtube": "https://www.youtube.com/watch?v=bXEhKX41WRk"
     },
     {
         "id": 92,
@@ -1422,15 +1542,16 @@
         "publisher": "Giants Software",
         "version": "Phiên bản mới nhất",
         "description": "Create your farm and let the good times grow! Harvest crops, tend to animals, manage productions, and take on seasonal challenges.",
-        "theloai": "Multiplayer",
+        "category": "Multiplayer",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1053.jpg",
         "sell": "4.6M",
-        "price": "467.000₫₫",
+        "price": "467.000₫",
         "rates": 5,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/"
+        "link": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/",
+        "youtube": "https://www.youtube.com/watch?v=qg9VPiUtaic"
     },
     {
         "id": 93,
@@ -1438,7 +1559,7 @@
         "publisher": "Bethesda Softworks",
         "version": "Phiên bản mới nhất",
         "description": "Bethesda Game Studios, the award-winning creators of Fallout 3 and The Elder Scrolls V: Skyrim, welcome you to the world of Fallout 4 – their most ambitious game ever, and the next generation of open-world gaming.",
-        "theloai": "FPS",
+        "category": "FPS",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1054.jpg",
         "sell": "1.4M",
@@ -1446,7 +1567,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/377160/Fallout_4/"
+        "link": "https://store.steampowered.com/app/377160/Fallout_4/",
+        "youtube": "https://www.youtube.com/watch?v=XW7Of3g2JME"
     },
     {
         "id": 94,
@@ -1454,7 +1576,7 @@
         "publisher": "Kitfox Games",
         "version": "Phiên bản mới nhất",
         "description": "The deepest, most intricate simulation of a world that's ever been created. The legendary Dwarf Fortress is now on Steam. Build a fortress and try to help your dwarves survive against a deeply generated world.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1055.jpg",
         "sell": "3.2M",
@@ -1462,7 +1584,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/975370/Dwarf_Fortress/"
+        "link": "https://store.steampowered.com/app/975370/Dwarf_Fortress/",
+        "youtube": "https://www.youtube.com/watch?v=xawsp16oxb0"
     },
     {
         "id": 95,
@@ -1470,7 +1593,7 @@
         "publisher": "Paradox Interactive",
         "version": "Phiên bản mới nhất",
         "description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1056.jpg",
         "sell": "2.4M",
@@ -1478,7 +1601,8 @@
         "rates": 3,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/281990/Stellaris/"
+        "link": "https://store.steampowered.com/app/281990/Stellaris/",
+        "youtube": "https://www.youtube.com/watch?v=zW3YB2ptGws"
     },
     {
         "id": 96,
@@ -1486,7 +1610,7 @@
         "publisher": "Gamepires",
         "version": "Phiên bản mới nhất",
         "description": "SCUM aims to evolve the multiplayer open world survival game with unprecedented levels of character customization, control and progression, where knowledge and skills are the ultimate weapons for long-term survival.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1057.jpg",
         "sell": "2.9M",
@@ -1494,7 +1618,8 @@
         "rates": 2,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/513710/SCUM/"
+        "link": "https://store.steampowered.com/app/513710/SCUM/",
+        "youtube": "https://www.youtube.com/watch?v=kNNRhTcW0tQ"
     },
     {
         "id": 97,
@@ -1502,7 +1627,7 @@
         "publisher": "CAPCOM Co., Ltd.",
         "version": "Phiên bản mới nhất",
         "description": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1058.jpg",
         "sell": "2.3M",
@@ -1510,7 +1635,8 @@
         "rates": 4,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/582010/Monster_Hunter_World/"
+        "link": "https://store.steampowered.com/app/582010/Monster_Hunter_World/",
+        "youtube": "https://www.youtube.com/watch?v=Ro6r15wzp2o"
     },
     {
         "id": 98,
@@ -1518,7 +1644,7 @@
         "publisher": "SCS Software",
         "version": "Phiên bản mới nhất",
         "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
-        "theloai": "Action",
+        "category": "Action",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1059.jpg",
         "sell": "0.3M",
@@ -1526,7 +1652,8 @@
         "rates": 1,
         "sale": "none",
         "sale_price": "none",
-        "link": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/"
+        "link": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/",
+        "youtube": "https://www.youtube.com/watch?v=xlTuC18xVII"
     },
     {
         "id": 99,
@@ -1534,7 +1661,7 @@
         "publisher": "Electronic Arts",
         "version": "Phiên bản mới nhất",
         "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
-        "theloai": "Adventure",
+        "category": "Adventure",
         "os": "Window 7/8/8.1/10/11",
         "img_url": "images/1060.jpg",
         "sell": "5M",
@@ -1542,6 +1669,7 @@
         "rates": 5,
         "sale": "-88%",
         "sale_price": "114.000₫",
-        "link": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/"
+        "link": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/",
+        "youtube": "https://www.youtube.com/watch?v=0GLbwkfhYZk"
     }
 ]
