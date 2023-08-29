@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Pikachu 2",
+        "publisher": "The Pokémon Company",
+        "version": "Pikachu classic 2",
+        "description": "Là game sắp xếp cặp hình trùng nổi tiếng nhất dành cho máy tính. Hiện nay có nhiều phiên bản game tìm cặp hình trùng khác nhau được phát hành nhưng game Pikachu phiên bản cổ điển này vẫn luôn là lựa chọn hàng đầu những những game thủ sành sỏi",
+        "os": "Windows XP/Vista/7/8/8.1/10/11",
+        "img_url": "images/1.png"
+    },
+    {
+        "name": "Geometry Dash",
+        "publisher": "RobTop Games",
+        "version": "Geometry Dash 1",
+        "description": "Một tựa game âm nhạc đã tai, ",
+        "os": "Windows 7/8/8.1/10/11",
+        "img_url": "images/2.png"
+    },
+    {
+        "name": "Bleach vs Naruto",
+        "publisher": "D-Play",
+        "version": "2.6",
+        "description": "Đây là một game đối kháng giới hạn độ tuổi",
+        "os": "windows XP/Vista/7/8/8.1/10/11",
+        "img_url": "images/3.png"
+    },
+    {
+        "name": "Lines",
+        "publisher": "Line Corporation",
+        "version": "1",
+        "description": "Game Lines là một trò chơi miễn phí. Mục đích là để sắp xếp các quả bóng cùng màu thành một đường thẳng.",
+        "os": "Windows XP/Vista/7/8/8.1/10",
+        "img_url": "images/4.png"
+    },
+    {
+        "name": "Angry Bird",
+        "publisher": "Rovio Entertainment",
+        "version": "4.0",
+        "description": "Angry Birds là game những chú chim nổi giận đình đám, vui nhộn trên máy tính và cả các nền tảng di động",
+        "os": "Windows XP/Vista/7/8/8.1/10/11",
+        "img_url": "images/5.png"
+    },
+    {
+        "name": "Đào Vàng",
+        "publisher": "Game Rival",
+        "version": "Classic",
+        "description": "Game đào vàng thuộc thể loại game kinh điển đã xuất hiện từ lâu trên PC và đến nay vẫn có sức hút nhất định. Trong game, bạn sẽ phải đóng vai bác tiều phu săn tìm vàng và nhiều kho báu giá trị từ vực sâu, chinh phục nhiều màn chơi để có những điểm số cao, những phần thưởng hấp dẫn",
+        "os": "Windows XP/Vista/7/8/8.1/10",
+        "img_url": "images/6.png"
+    },
+    {
+        "name": "Dynomite",
+        "publisher": "PopCap",
+        "version": "Classic",
+        "description": "Dynomite là tựa game bắn trứng khủng long kinh điển và rất nổi tiếng của hãng Popcap. Game gắn liền tuổi thơ của nhiều người nhờ lối chơi đơn giản và vô cùng thú vị, giúp xả stress hiệu quả.",
+        "os": "WINDOWS XP/Vista/7/8/8.1/10",
+        "img_url": "images/7.png"
+    },
+    {
+        "name": "Cá lớn nuốt cá bé",
+        "publisher": "PopCap",
+        "version": "5.7",
+        "description": "Là tựa game cá lớn nuốt cá bé được hãng PopCap phát triển.  Game hấp dẫn người chơi ở nhiều độ tuổi nhờ đồ họa bắt mắt, lối chơi đơn giản và mang tính giải trí cao",
+        "os": "Windows 2000/XP/Vista/7/8/10",
+        "img_url": "images/8.png"
+    },
+    {
+        "name": "Chicken Invaders",
+        "publisher": "InterAction studios",
+        "version": "1.3",
+        "description": "Chicken Invaders là tựa game bắn gà kinh điển nổi tiếng trên thế giới, hấp dẫn bao thế hệ người chơi",
+        "os": "Windows 95/98/Me/2000/XP/Vista/7/8/10",
+        "img_url": "images/9.png"
+    }
+]
